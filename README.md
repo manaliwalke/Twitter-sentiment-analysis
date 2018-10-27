@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-CS583 course project at University of Illinois at Chicago.
+Machine Learning course project at University of Illinois at Chicago.
 
 ## Task
 
