@@ -4,7 +4,7 @@ Machine Learning course project at University of Illinois at Chicago.
 
 ## Task
 
-To perform sentiment analysis over a corpus of tweets during the U.S. 2012 Re-Election about the candidates Barack Obama and Mitt Romney.
+To perform sentiment analysis over a corpus of tweets during the U.S. 2012 election about the candidates Barack Obama and Mitt Romney.
 
 The previous best score on the test dataset was 64 % f1-score, suggesting that improvements can be obtained using modern machine learning / deep learning algorithms.
 
